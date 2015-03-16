@@ -4,7 +4,7 @@
     font-size: 14px;
     height: 14px;
     margin: auto;
-    position: absolute;
+    position: absolute!important;
     right: 10px;
     z-index: 99999999;
 }
