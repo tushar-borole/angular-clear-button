@@ -1,0 +1,28 @@
+{
+  "name": "angular-clear-button",
+  "main": "angular-clear-button.js",
+  "version": "0.0.0",
+  "homepage": "https://github.com/tushariscoolster/angular-clear-button",
+  "authors": [
+    "Tushar Borole <tushariscoolster@gmail.com>"
+  ],
+  "description": "ios style clear button for angular js",
+  "keywords": [
+    "clearbutton",
+    "ios",
+    "clear",
+    "button",
+    "angular",
+    "js",
+    "clear",
+    "button"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
