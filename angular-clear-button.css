@@ -1,0 +1,10 @@
+.searchclear {
+    color: #ccc;
+    cursor: pointer;
+    font-size: 14px;
+    height: 14px;
+    margin: auto;
+    position: absolute;
+    right: 10px;
+    z-index: 99999999;
+}
