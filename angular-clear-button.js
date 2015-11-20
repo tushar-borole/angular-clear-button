@@ -1,6 +1,8 @@
-/*@author Tushar Borole
+/**
+ * @author Tushar Borole
  * @description Add ios style clear button for input box
- * for example <input type="text" id="fixed"  clear-btn/>*/
+ * for example <input type="text" id="fixed"  clear-btn/>
+ */
 
 angular.module('angular-clear-button', []).directive('clearBtn', ['$parse', function ($parse) {
     return {
